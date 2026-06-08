@@ -110,8 +110,8 @@ models/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/autonomous-credit-agent.git
-cd autonomous-credit-agent
+git clone https://github.com/MelihOrel/Autonomous-Customer-Profiling-Financial-Clustering-Agent.git
+cd Autonomous-Customer-Profiling-Financial-Clustering-Agent
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
